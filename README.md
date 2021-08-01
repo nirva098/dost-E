@@ -1,0 +1,2 @@
+# dost-E
+Small initiative &amp; a side project which is aimed to create a platform for providing E-councillor. Ultimate aim is to create an AI which can chat, talk and give a therapy to fellow users. For starters, I'll try to collect all the resources, documents, some similar projects &amp; subject experts in order to start this thing, will be keeping this as open source as all interest folks should be able to contribute.
